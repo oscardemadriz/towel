@@ -12,6 +12,7 @@ display_usage() {
 #    Updated: 2018/03/17 10:42:34 by ossanche         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #" 
+	echo -e "\n###If you're gonna survive out here, you've gotta know...where your towel is!###\n\n"
 	echo -e "This script needs day number and intra user name.\nWill download Stupidity and your repository code from dayXX,\nCheck with norminette, build them and also test them with Stupidity" 
 	echo  -e "\nUsage:\n ./towel.sh 03 ossanche \n" 
 	} 
