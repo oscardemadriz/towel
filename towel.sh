@@ -38,4 +38,5 @@ git clone vogsphere@vgs.42.us.org:intra/2018/activities/piscine_c_day_$1/$2 day$
 ./tools/build.sh
 ./tools/verify.sh
 ./tools/check_all.sh
+cd ..
 rm -rf stupiditytmp
