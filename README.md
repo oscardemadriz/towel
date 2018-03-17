@@ -1,4 +1,4 @@
-# Towel 42
+# Towel.sh
 >  ## If you're gonna survive out here, you've gotta know...where your towel is!
 
 Towel will be handy if you're in 42, to run towel just needs the day number and your intra user name.
