@@ -11,6 +11,9 @@ Will download Stupidity and your repository code from dayXX. You can also uses f
 
 * Test with Stupidity
 
+Usage example (./towel.sh DD intrausername)
+> ./towel.sh 03 ossanche
+
 ___
 
 Towel for 42 School Silicon Valley
