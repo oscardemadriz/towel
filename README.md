@@ -3,7 +3,7 @@
 
 Towel will be handy if you're in 42, to run towel just needs the day number.
 
-Will download Stupidity and your repository code from dayXX. You can also uses for reviews!
+Will download Stupidity and your repository code from dayXX. You can also use it for reviews!
 
 * Check with Normanette
 
